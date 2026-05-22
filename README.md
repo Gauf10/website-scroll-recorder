@@ -61,7 +61,7 @@ Showcase para clientes
 Documentación visual
 Instalación
 1. Clonar repositorio
-git clone https://github.com/TUUSUARIO/website-scroll-recorder.git
+git clone https://github.com/Gauf10/website-scroll-recorder.git
 cd website-scroll-recorder
 2. Instalar dependencias
 npm install
